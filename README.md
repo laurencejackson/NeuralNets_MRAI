@@ -1,4 +1,4 @@
-# Neural Networks from MRAI workshop
+# Networks for Magnetic Resonance Artificial Intelligence (MRAI)
 
 This is work was performed as part of the MRAI workshop (MIDL 2019 satellite meeting) with exercises designed by Esther Puyol (https://github.com/estherpuyol/MRAI_workshop).
 
@@ -19,7 +19,7 @@ A U-net style network was chosen for this problem since it offers
 
 #### Results
 Figure 1 shows the predicted segmentations of the trained network on a sample from the training data. 
-<p align="center"><img width="800" src="./LV_segmentation/imgs/training_data.PNG"><cap><br>Figure 1</cap></p>
+<p align="center"><img width="100%" src="./LV_segmentation/imgs/training_data.PNG"><em><br>Figure 1</em></p>
 
 Figure 2 shows the predicted segmentations of the trained network on a sample from the test data. In this case the network is shown to provide useful segmentations from unseen data.
-<p align="center"><img width="800" src="./LV_segmentation/imgs/test_data.PNG"><cap><br>Figure 2</cap></p>
+<p align="center"><img width="100%" src="./LV_segmentation/imgs/test_data.PNG"><em><br>Figure 2</em></p>
