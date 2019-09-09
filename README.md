@@ -19,8 +19,7 @@ A U-net style network was chosen for this problem since it offers
 
 #### Results
 Figure 1 shows the predicted segmentations of the trained network on a sample from the training data. 
-<p align="center"><img width="600" src="./LV_segmentation/imgs/training_data.PNG"><em>Figure 1</em></p>
+<p align="center"><img width="800" src="./LV_segmentation/imgs/training_data.PNG"><cap><br>Figure 1</cap></p>
 
 Figure 2 shows the predicted segmentations of the trained network on a sample from the test data. In this case the network is shown to provide useful segmentations from unseen data.
-<p align="center"><img width="600" src="./LV_segmentation/imgs/test_data.PNG"><em>Figure 2</em></p>
-
+<p align="center"><img width="800" src="./LV_segmentation/imgs/test_data.PNG"><cap><br>Figure 2</cap></p>
