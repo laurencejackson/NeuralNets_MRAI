@@ -1,8 +1,8 @@
-# Networks for Magnetic Resonance Artificial Intelligence Workshop (MRAI 2019)
+# Networks for the Magnetic Resonance Artificial Intelligence Workshop (MRAI 2019)
 
 This is work was performed as part of the MRAI workshop (MIDL 2019 satellite meeting) with exercises designed by Esther Puyol (https://github.com/estherpuyol/MRAI_workshop).
 
-The original networks from the workshop were built using the pytorch library, as a learning exercise I have developed these networks using an alternative platform (TensorFlow).
+The original networks from the workshop were built using the PyTorch library, as a learning exercise I have developed these networks using an alternative platform (TensorFlow).
 
 ### Google Collaboratory
 The networks were built and tested using Google's Collaboratory platform. This is a cloud based Jupyter notebook environment where it is possible to utilise cloud GPU processing for network training. This makes it pracitcal to develop networks when no local GPU is available such as laptops. To get started with Collaboratory:
